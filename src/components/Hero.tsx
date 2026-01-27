@@ -1,5 +1,4 @@
-import React from 'react';
-import { ArrowRight, ExternalLink, ShieldCheck } from 'lucide-react';
+import { ArrowRight, ExternalLink } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const Hero = () => {

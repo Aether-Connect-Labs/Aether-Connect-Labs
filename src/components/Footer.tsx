@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, MessageCircle, Send } from 'lucide-react';
 
 const Footer = () => {

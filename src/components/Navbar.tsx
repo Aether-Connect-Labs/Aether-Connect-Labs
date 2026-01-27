@@ -1,5 +1,5 @@
 import React from 'react';
-import { Menu, X, Github, ExternalLink } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);

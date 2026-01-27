@@ -1,5 +1,4 @@
-import React from 'react';
-import { Network, Database, Globe, Lock } from 'lucide-react';
+import { Network, Database } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const Vision = () => {

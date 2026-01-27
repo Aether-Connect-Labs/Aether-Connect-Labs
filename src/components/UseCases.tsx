@@ -1,4 +1,3 @@
-import React from 'react';
 import { GraduationCap, Gamepad2, BarChart3 } from 'lucide-react';
 
 const cases = [

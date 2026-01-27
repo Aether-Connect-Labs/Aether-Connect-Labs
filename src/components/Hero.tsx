@@ -47,10 +47,15 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto"
         >
-          <button className="group px-8 py-4 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-all flex items-center justify-center gap-2">
+          <a
+            href="https://ipfs.io/ipfs/bafybeihwyll2z3fcauq6cydajqkja754oo47b7hppwvfeu74p6cemp5t6y"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group px-8 py-4 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-all flex items-center justify-center gap-2"
+          >
             Ver Whitepaper
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-          </button>
+          </a>
           <a
             href="https://hashscan.io/mainnet/token/0.0.10207330"
             target="_blank"

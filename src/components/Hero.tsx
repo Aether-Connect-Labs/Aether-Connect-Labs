@@ -65,9 +65,14 @@ const Hero = () => {
             Explorar en HashScan
             <ExternalLink className="w-4 h-4" />
           </a>
-          <button className="px-8 py-4 bg-acl-neon/10 text-acl-neon border border-acl-neon/50 font-bold rounded-lg hover:bg-acl-neon/20 transition-all flex items-center justify-center gap-2">
+          <a
+            href="https://ecosistema-oficial-acl.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-8 py-4 bg-acl-neon/10 text-acl-neon border border-acl-neon/50 font-bold rounded-lg hover:bg-acl-neon/20 transition-all flex items-center justify-center gap-2"
+          >
             Únete a la Comunidad
-          </button>
+          </a>
         </motion.div>
       </div>
     </div>

@@ -20,6 +20,7 @@ const Navbar = () => {
               <a href="#use-cases" className="hover:text-acl-neon transition-colors px-3 py-2 rounded-md text-sm font-medium">Casos de Uso</a>
               <a href="#token" className="hover:text-acl-neon transition-colors px-3 py-2 rounded-md text-sm font-medium">Token ACL</a>
               <a href="#roadmap" className="hover:text-acl-neon transition-colors px-3 py-2 rounded-md text-sm font-medium">Roadmap</a>
+              <a href="https://ecosistema-oficial-acl.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-acl-neon transition-colors px-3 py-2 rounded-md text-sm font-medium">Comunidad</a>
               <a href="https://hashscan.io/mainnet/token/0.0.10207330" target="_blank" rel="noopener noreferrer" className="bg-acl-neon/10 text-acl-neon border border-acl-neon/50 hover:bg-acl-neon/20 px-4 py-2 rounded-md text-sm font-medium transition-all">
                 HashScan
               </a>
@@ -44,6 +45,7 @@ const Navbar = () => {
             <a href="#use-cases" className="text-gray-300 hover:text-acl-neon block px-3 py-2 rounded-md text-base font-medium">Casos de Uso</a>
             <a href="#token" className="text-gray-300 hover:text-acl-neon block px-3 py-2 rounded-md text-base font-medium">Token ACL</a>
             <a href="#roadmap" className="text-gray-300 hover:text-acl-neon block px-3 py-2 rounded-md text-base font-medium">Roadmap</a>
+            <a href="https://ecosistema-oficial-acl.vercel.app/" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-acl-neon block px-3 py-2 rounded-md text-base font-medium">Comunidad</a>
           </div>
         </div>
       )}

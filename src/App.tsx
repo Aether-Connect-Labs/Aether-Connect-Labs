@@ -3,6 +3,7 @@ import Hero from './components/Hero';
 import Vision from './components/Vision';
 import UseCases from './components/UseCases';
 import TokenDetails from './components/TokenDetails';
+import Transparency from './components/Transparency';
 import Roadmap from './components/Roadmap';
 import Footer from './components/Footer';
 
@@ -14,6 +15,7 @@ function App() {
       <Vision />
       <UseCases />
       <TokenDetails />
+      <Transparency />
       <Roadmap />
       <Footer />
     </div>
